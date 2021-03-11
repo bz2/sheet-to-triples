@@ -76,7 +76,7 @@
            'type': 'activity'},
           {'area': '[[-173.7,209.16],[-173.7,234.99],[-172.8,235.9],[-161.64,235.9],[-160.73,234.99],[-160.73,209.16],[-161.64,208.25],[-172.8,208.25]]',
            'dataLocation': None,
-           'display': '{"box":[-164.68,210.08,-169.16,233.72],"background":"002E5F","color":"#fff","text":"Supply '
+           'display': '{"box":[-164.68,210.08,-169.16,233.72],"background":"#002E5F","color":"#fff","text":"Supply '
                       'Chain","fontFamily":"Roboto-Regular","fontSize":3.75}',
            'geoPoint': '[-166.92,221.9]',
            'ident': 'Azy1Oa-_',
@@ -102,7 +102,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-173.48,19.6],[-173.48,46.37],[-172.55,47.3],[-161.43,47.3],[-160.5,46.37],[-160.5,19.6],[-161.43,18.67],[-172.55,18.67]]',
            'dataLocation': None,
-           'display': '{"box":[-162.0,18.68,-170.98,47.3],"background":"002E5F","color":"#fff","text":"Information '
+           'display': '{"box":[-162.0,18.68,-170.98,47.3],"background":"#002E5F","color":"#fff","text":"Information '
                       'and\\nTechnology","fontFamily":"Roboto-Regular","fontSize":3.75}',
            'geoPoint': '[-166.49,32.99]',
            'ident': 'Esr7Ybmg',
@@ -119,7 +119,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-153.29,20.08],[-153.29,45.91],[-152.38,46.82],[-141.22,46.82],[-140.32,45.91],[-140.32,20.08],[-141.22,19.18],[-152.38,19.18]]',
            'dataLocation': None,
-           'display': '{"box":[-142.3,24.52,-151.27,41.92],"background":"002E5F","color":"#fff","text":"Land '
+           'display': '{"box":[-142.3,24.52,-151.27,41.92],"background":"#002E5F","color":"#fff","text":"Land '
                       'and\\nestates","fontFamily":"Roboto-Regular","fontSize":3.75}',
            'geoPoint': '[-146.78,33.22]',
            'ident': 'oie7bkN4',
@@ -136,7 +136,7 @@
            'type': 'activity'},
           {'area': '[[-133.06,20.07],[-133.06,45.9],[-132.15,46.81],[-121.0,46.81],[-120.09,45.9],[-120.09,20.07],[-121.0,19.16],[-132.15,19.16]]',
            'dataLocation': None,
-           'display': '{"box":[-124.68,25.52,-129.15,40.63],"background":"002E5F","color":"#fff","text":"Finance","fontFamily":"Roboto-Regular","fontSize":3.75}',
+           'display': '{"box":[-124.68,25.52,-129.15,40.63],"background":"#002E5F","color":"#fff","text":"Finance","fontFamily":"Roboto-Regular","fontSize":3.75}',
            'geoPoint': '[-126.91,33.08]',
            'ident': 'zgoOEm80',
            'layer': 'activity@2',
@@ -152,7 +152,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-113.12,20.19],[-113.12,46.03],[-112.21,46.93],[-101.05,46.93],[-100.14,46.03],[-100.14,20.19],[-101.05,19.29],[-112.21,19.29]]',
            'dataLocation': None,
-           'display': '{"box":[-102.19,24.24,-111.16,42.2],"background":"002E5F","color":"#fff","text":"Technical\\nExpertise","fontFamily":"Roboto-Regular","fontSize":3.75}',
+           'display': '{"box":[-102.19,24.24,-111.16,42.2],"background":"#002E5F","color":"#fff","text":"Technical\\nExpertise","fontFamily":"Roboto-Regular","fontSize":3.75}',
            'geoPoint': '[-106.67,33.22]',
            'ident': '_AVMXO7m',
            'layer': 'activity@2',
@@ -168,7 +168,7 @@
            'type': 'activity'},
           {'area': '[[-153.41,208.99],[-153.41,234.82],[-152.5,235.72],[-141.34,235.72],[-140.43,234.82],[-140.43,208.99],[-141.34,208.08],[-152.5,208.08]]',
            'dataLocation': None,
-           'display': '{"box":[-142.83,211.19,-151.8,228.69],"background":"002E5F","color":"#fff","text":"Legal\\nExpertise","fontFamily":"Roboto-Regular","fontSize":3.75}',
+           'display': '{"box":[-142.83,211.19,-151.8,228.69],"background":"#002E5F","color":"#fff","text":"Legal\\nExpertise","fontFamily":"Roboto-Regular","fontSize":3.75}',
            'geoPoint': '[-147.32,219.94]',
            'ident': 'Fr3m46u1',
            'layer': 'activity@2',
@@ -184,7 +184,7 @@
            'type': 'activity'},
           {'area': '[[-133.28,209.17],[-133.28,235.0],[-132.37,235.91],[-121.21,235.91],[-120.31,235.0],[-120.31,209.17],[-121.21,208.26],[-132.37,208.26]]',
            'dataLocation': None,
-           'display': '{"box":[-124.43,215.17,-128.91,228.64],"background":"002E5F","color":"#fff","text":"People","fontFamily":"Roboto-Regular","fontSize":3.75}',
+           'display': '{"box":[-124.43,215.17,-128.91,228.64],"background":"#002E5F","color":"#fff","text":"People","fontFamily":"Roboto-Regular","fontSize":3.75}',
            'geoPoint': '[-126.67,221.9]',
            'ident': 'PLS55gjr',
            'layer': 'activity@2',
@@ -218,7 +218,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-113.06,209.15],[-113.06,234.98],[-112.15,235.89],[-100.99,235.89],[-100.08,234.98],[-100.08,209.15],[-100.99,208.24],[-112.15,208.24]]',
            'dataLocation': None,
-           'display': '{"box":[-102.19,211.96,-111.16,232.03],"background":"002E5F","color":"#fff","text":"Brand '
+           'display': '{"box":[-102.19,211.96,-111.16,232.03],"background":"#002E5F","color":"#fff","text":"Brand '
                       'and\\nReputation","fontFamily":"Roboto-Regular","fontSize":3.75}',
            'geoPoint': '[-106.67,221.99]',
            'ident': 'b35TvO4W',
@@ -228,7 +228,7 @@
            'type': 'vm:IntangibleAsset'},
           {'area': '[[-145.13,140.56],[-145.13,115.83],[-127.08,115.83],[-127.08,140.56]]',
            'dataLocation': None,
-           'display': '{"box":[-131.34,116.25,-139.58,139.75],"background":"058BCC","color":"#fff","text":"Assets","fontFamily":"Roboto-Regular","fontSize":6.88}',
+           'display': '{"box":[-131.34,116.25,-139.58,139.75],"background":"#058BCC","color":"#fff","text":"Assets","fontFamily":"Roboto-Regular","fontSize":6.88}',
            'geoPoint': '[-135.46,128.0]',
            'ident': 'GVzeZdWZ',
            'layer': 'activity@2',
@@ -246,7 +246,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-20.33,234.13],[-20.33,226.0],[-24.67,221.67],[-26.61,221.67],[-30.95,217.33],[-30.95,208.41],[-35.28,204.08],[-37.78,204.08],[-42.12,199.74],[-42.12,191.65],[-46.45,187.32],[-48.74,187.32],[-53.08,191.65],[-53.08,234.13],[-48.74,238.46],[-24.67,238.46]]',
            'dataLocation': None,
-           'display': '{"box":[-13.98,203.64,-20.11,246.36],"background":"002E5F","color":"#fff","text":"Contextual '
+           'display': '{"box":[-13.98,203.64,-20.11,246.36],"background":"#002E5F","color":"#fff","text":"Contextual '
                       'drivers","fontFamily":"Roboto-Regular","fontSize":5.0}',
            'geoPoint': '[-17.04,225.0]',
            'ident': '929wgK2p',
@@ -256,7 +256,7 @@
            'type': 'http://webprotege.stanford.edu/R93SkoUnFXM1KEjUDb2Ij3n'},
           {'area': '[[-29.52,223.11],[-31.89,235.08]]',
            'dataLocation': None,
-           'display': '{"box":[-29.52,223.11,-31.89,235.08],"background":"002E5F","color":"#1d1d1b","text":"Environment","fontFamily":"Roboto-Regular","fontSize":1.88}',
+           'display': '{"box":[-29.52,223.11,-31.89,235.08],"background":"#002E5F","color":"#1d1d1b","text":"Environment","fontFamily":"Roboto-Regular","fontSize":1.88}',
            'geoPoint': '[-30.71,229.1]',
            'ident': 'sPCelpcu',
            'layer': 'activity@3',
@@ -265,7 +265,7 @@
            'type': 'http://webprotege.stanford.edu/R93SkoUnFXM1KEjUDb2Ij3n'},
           {'area': '[[-36.89,210.79],[-39.25,221.89]]',
            'dataLocation': None,
-           'display': '{"box":[-36.89,210.79,-39.25,221.89],"background":"002E5F","color":"#1d1d1b","text":"Technology","fontFamily":"Roboto-Regular","fontSize":1.88}',
+           'display': '{"box":[-36.89,210.79,-39.25,221.89],"background":"#002E5F","color":"#1d1d1b","text":"Technology","fontFamily":"Roboto-Regular","fontSize":1.88}',
            'geoPoint': '[-38.07,216.34]',
            'ident': 'I4A5RlDg',
            'layer': 'activity@3',
@@ -274,7 +274,7 @@
            'type': 'http://webprotege.stanford.edu/R93SkoUnFXM1KEjUDb2Ij3n'},
           {'area': '[[-45.41,194.08],[-47.78,207.68]]',
            'dataLocation': None,
-           'display': '{"box":[-45.41,194.08,-47.78,207.68],"background":"002E5F","color":"#1d1d1b","text":"Demographics","fontFamily":"Roboto-Regular","fontSize":1.88}',
+           'display': '{"box":[-45.41,194.08,-47.78,207.68],"background":"#002E5F","color":"#1d1d1b","text":"Demographics","fontFamily":"Roboto-Regular","fontSize":1.88}',
            'geoPoint': '[-46.6,200.88]',
            'ident': 'AcWtwk1t',
            'layer': 'activity@3',
@@ -359,7 +359,7 @@
            'type': 'activity'},
           {'area': '[[-172.25,210.49],[-172.25,233.66],[-171.49,234.42],[-162.94,234.42],[-162.19,233.66],[-162.19,210.49],[-162.94,209.73],[-171.49,209.73]]',
            'dataLocation': None,
-           'display': '{"box":[-165.75,216.2,-168.82,232.63],"background":"002E5F","color":"#fff","text":"Supply '
+           'display': '{"box":[-165.75,216.2,-168.82,232.63],"background":"#002E5F","color":"#fff","text":"Supply '
                       'Chain","fontFamily":"Roboto-Regular","fontSize":2.5}',
            'geoPoint': '[-167.29,224.42]',
            'ident': 'Azy1Oa-_',
@@ -403,7 +403,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-172.02,21.4],[-172.02,44.57],[-171.26,45.33],[-162.72,45.33],[-161.96,44.57],[-161.96,21.4],[-162.72,20.64],[-171.26,20.64]]',
            'dataLocation': None,
-           'display': '{"box":[-163.99,24.83,-170.05,44.58],"background":"002E5F","color":"#fff","text":"Information '
+           'display': '{"box":[-163.99,24.83,-170.05,44.58],"background":"#002E5F","color":"#fff","text":"Information '
                       'and\\nTechnology","fontFamily":"Roboto-Regular","fontSize":2.5}',
            'geoPoint': '[-167.02,34.71]',
            'ident': 'Esr7Ybmg',
@@ -420,7 +420,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-151.83,21.41],[-151.83,44.59],[-151.08,45.34],[-142.53,45.34],[-141.77,44.59],[-141.77,21.41],[-142.53,20.66],[-151.08,20.66]]',
            'dataLocation': None,
-           'display': '{"box":[-144.04,28.66,-150.1,40.92],"background":"002E5F","color":"#fff","text":"Land '
+           'display': '{"box":[-144.04,28.66,-150.1,40.92],"background":"#002E5F","color":"#fff","text":"Land '
                       'and\\nestates","fontFamily":"Roboto-Regular","fontSize":2.5}',
            'geoPoint': '[-147.07,34.79]',
            'ident': 'oie7bkN4',
@@ -437,7 +437,7 @@
            'type': 'activity'},
           {'area': '[[-131.6,21.4],[-131.6,44.57],[-130.85,45.33],[-122.3,45.33],[-121.55,44.57],[-121.55,21.4],[-122.3,20.64],[-130.85,20.64]]',
            'dataLocation': None,
-           'display': '{"box":[-124.85,30.0,-127.91,40.74],"background":"002E5F","color":"#fff","text":"Finance","fontFamily":"Roboto-Regular","fontSize":2.5}',
+           'display': '{"box":[-124.85,30.0,-127.91,40.74],"background":"#002E5F","color":"#fff","text":"Finance","fontFamily":"Roboto-Regular","fontSize":2.5}',
            'geoPoint': '[-126.38,35.37]',
            'ident': 'zgoOEm80',
            'layer': 'activity@3',
@@ -453,7 +453,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-111.66,21.52],[-111.66,44.7],[-110.9,45.45],[-102.36,45.45],[-101.6,44.7],[-101.6,21.52],[-102.36,20.77],[-110.9,20.77]]',
            'dataLocation': None,
-           'display': '{"box":[-103.88,30.11,-109.95,42.75],"background":"002E5F","color":"#fff","text":"Technical\\nExpertise","fontFamily":"Roboto-Regular","fontSize":2.5}',
+           'display': '{"box":[-103.88,30.11,-109.95,42.75],"background":"#002E5F","color":"#fff","text":"Technical\\nExpertise","fontFamily":"Roboto-Regular","fontSize":2.5}',
            'geoPoint': '[-106.92,36.43]',
            'ident': '_AVMXO7m',
            'layer': 'activity@3',
@@ -469,7 +469,7 @@
            'type': 'activity'},
           {'area': '[[-151.95,210.31],[-151.95,233.49],[-151.19,234.24],[-142.65,234.24],[-141.89,233.49],[-141.89,210.31],[-142.65,209.56],[-151.19,209.56]]',
            'dataLocation': None,
-           'display': '{"box":[-143.9,217.12,-149.97,229.45],"background":"002E5F","color":"#fff","text":"Legal\\nExpertise","fontFamily":"Roboto-Regular","fontSize":2.5}',
+           'display': '{"box":[-143.9,217.12,-149.97,229.45],"background":"#002E5F","color":"#fff","text":"Legal\\nExpertise","fontFamily":"Roboto-Regular","fontSize":2.5}',
            'geoPoint': '[-146.93,223.29]',
            'ident': 'Fr3m46u1',
            'layer': 'activity@3',
@@ -485,7 +485,7 @@
            'type': 'activity'},
           {'area': '[[-131.82,210.5],[-131.82,233.67],[-131.07,234.43],[-122.52,234.43],[-121.76,233.67],[-121.76,210.5],[-122.52,209.74],[-131.07,209.74]]',
            'dataLocation': None,
-           'display': '{"box":[-125.5,220.54,-128.57,230.19],"background":"002E5F","color":"#fff","text":"People","fontFamily":"Roboto-Regular","fontSize":2.5}',
+           'display': '{"box":[-125.5,220.54,-128.57,230.19],"background":"#002E5F","color":"#fff","text":"People","fontFamily":"Roboto-Regular","fontSize":2.5}',
            'geoPoint': '[-127.04,225.36]',
            'ident': 'PLS55gjr',
            'layer': 'activity@3',
@@ -566,7 +566,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-111.6,210.48],[-111.6,233.65],[-110.84,234.41],[-102.3,234.41],[-101.54,233.65],[-101.54,210.48],[-102.3,209.73],[-110.84,209.73]]',
            'dataLocation': None,
-           'display': '{"box":[-103.58,217.92,-109.65,231.97],"background":"002E5F","color":"#fff","text":"Brand '
+           'display': '{"box":[-103.58,217.92,-109.65,231.97],"background":"#002E5F","color":"#fff","text":"Brand '
                       'and\\nReputation","fontFamily":"Roboto-Regular","fontSize":2.5}',
            'geoPoint': '[-106.61,224.94]',
            'ident': 'b35TvO4W',
@@ -576,7 +576,7 @@
            'type': 'vm:IntangibleAsset'},
           {'area': '[[-145.13,137.81],[-145.13,117.52],[-127.08,117.52],[-127.08,137.81]]',
            'dataLocation': None,
-           'display': '{"box":[-132.3,118.79,-138.43,136.56],"background":"058BCC","color":"#fff","text":"Assets","fontFamily":"Roboto-Regular","fontSize":5.0}',
+           'display': '{"box":[-132.3,118.79,-138.43,136.56],"background":"#058BCC","color":"#fff","text":"Assets","fontFamily":"Roboto-Regular","fontSize":5.0}',
            'geoPoint': '[-135.37,127.67]',
            'ident': 'GVzeZdWZ',
            'layer': 'activity@3',
@@ -585,7 +585,7 @@
            'type': 'http://webprotege.stanford.edu/RBmqEHPuKuvpNznItviKdyK'},
           {'area': '[[-103.11,136.73],[-103.11,118.6],[-96.08,118.6],[-96.08,136.73]]',
            'dataLocation': None,
-           'display': '{"box":[-97.19,119.13,-102.83,136.27],"background":"058BCC","color":"#fff","text":"Strategic '
+           'display': '{"box":[-97.19,119.13,-102.83,136.27],"background":"#058BCC","color":"#fff","text":"Strategic '
                       'Road\\nNetwork","fontFamily":"Roboto-Regular","fontSize":2.5}',
            'geoPoint': '[-100.01,127.7]',
            'ident': '83xzbQW1',
@@ -684,7 +684,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-20.14,20.54],[-20.14,37.34],[-30.76,37.34],[-30.76,54.93],[-41.92,54.93],[-41.92,71.69],[-52.89,71.69],[-52.89,20.54]]',
            'dataLocation': None,
-           'display': '{"box":[-7.36,19.67,-19.5,51.18],"background":"002E5F","color":"#fff","text":"Corporate\\nStakeholders","fontFamily":"Roboto-Regular","fontSize":5.0}',
+           'display': '{"box":[-7.36,19.67,-19.5,51.18],"background":"#002E5F","color":"#fff","text":"Corporate\\nStakeholders","fontFamily":"Roboto-Regular","fontSize":5.0}',
            'geoPoint': '[-13.43,35.43]',
            'ident': 'yicuykiG',
            'layer': 'activity@3',
@@ -711,7 +711,7 @@
            'type': 'http://webprotege.stanford.edu/RBJ3sWyEdjzo3HjkcABim8C'},
           {'area': '[[-20.33,234.13],[-20.33,226.0],[-24.67,221.67],[-26.61,221.67],[-30.95,217.33],[-30.95,208.41],[-35.28,204.08],[-37.78,204.08],[-42.12,199.74],[-42.12,191.65],[-46.45,187.32],[-48.74,187.32],[-53.08,191.65],[-53.08,234.13],[-48.74,238.46],[-24.67,238.46]]',
            'dataLocation': None,
-           'display': '{"box":[-14.1,203.89,-19.99,246.11],"background":"002E5F","color":"#fff","text":"Contextual '
+           'display': '{"box":[-14.1,203.89,-19.99,246.11],"background":"#002E5F","color":"#fff","text":"Contextual '
                       'drivers","fontFamily":"Roboto-Regular","fontSize":5.0}',
            'geoPoint': '[-17.04,225.0]',
            'ident': '929wgK2p',
@@ -721,7 +721,7 @@
            'type': 'http://webprotege.stanford.edu/R93SkoUnFXM1KEjUDb2Ij3n'},
           {'area': '[[-29.52,223.11],[-31.89,235.08]]',
            'dataLocation': None,
-           'display': '{"box":[-29.52,223.11,-31.89,235.08],"background":"002E5F","color":"#1d1d1b","text":"Environment","fontFamily":"Roboto-Regular","fontSize":1.88}',
+           'display': '{"box":[-29.52,223.11,-31.89,235.08],"background":"#002E5F","color":"#1d1d1b","text":"Environment","fontFamily":"Roboto-Regular","fontSize":1.88}',
            'geoPoint': '[-30.71,229.1]',
            'ident': 'sPCelpcu',
            'layer': 'activity@5-6',
@@ -730,7 +730,7 @@
            'type': 'http://webprotege.stanford.edu/R93SkoUnFXM1KEjUDb2Ij3n'},
           {'area': '[[-36.89,210.79],[-39.25,221.89]]',
            'dataLocation': None,
-           'display': '{"box":[-36.89,210.79,-39.25,221.89],"background":"002E5F","color":"#1d1d1b","text":"Technology","fontFamily":"Roboto-Regular","fontSize":1.88}',
+           'display': '{"box":[-36.89,210.79,-39.25,221.89],"background":"#002E5F","color":"#1d1d1b","text":"Technology","fontFamily":"Roboto-Regular","fontSize":1.88}',
            'geoPoint': '[-38.07,216.34]',
            'ident': 'I4A5RlDg',
            'layer': 'activity@5-6',
@@ -739,7 +739,7 @@
            'type': 'http://webprotege.stanford.edu/R93SkoUnFXM1KEjUDb2Ij3n'},
           {'area': '[[-45.41,194.08],[-47.78,207.68]]',
            'dataLocation': None,
-           'display': '{"box":[-45.41,194.08,-47.78,207.68],"background":"002E5F","color":"#1d1d1b","text":"Demographics","fontFamily":"Roboto-Regular","fontSize":1.88}',
+           'display': '{"box":[-45.41,194.08,-47.78,207.68],"background":"#002E5F","color":"#1d1d1b","text":"Demographics","fontFamily":"Roboto-Regular","fontSize":1.88}',
            'geoPoint': '[-46.6,200.88]',
            'ident': 'AcWtwk1t',
            'layer': 'activity@5-6',
@@ -1320,7 +1320,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-169.5,218.92],[-169.5,225.24],[-169.23,225.5],[-165.2,225.5],[-164.93,225.24],[-164.93,218.92],[-165.2,218.65],[-169.23,218.65]]',
            'dataLocation': None,
-           'display': '{"box":[-166.84,221.52,-167.48,224.41],"background":"002E5F","color":"#fff","text":"Supply '
+           'display': '{"box":[-166.84,221.52,-167.48,224.41],"background":"#002E5F","color":"#fff","text":"Supply '
                       'Chain","fontFamily":"Roboto-Regular","fontSize":0.46}',
            'geoPoint': '[-167.16,222.96]',
            'ident': 'Azy1Oa-_',
@@ -1592,7 +1592,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-130.34,79.62],[-130.34,76.84],[-130.22,76.72],[-129.45,76.72],[-129.34,76.84],[-129.34,79.62],[-129.45,79.73],[-130.22,79.73]]',
            'dataLocation': None,
-           'display': '{"box":[-129.48,77.25,-130.28,79.31],"background":"990033","color":"#1d1d1b","text":"1: '
+           'display': '{"box":[-129.48,77.25,-130.28,79.31],"background":"#990033","color":"#1d1d1b","text":"1: '
                       'Options\\nidentification","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-129.88,78.28]',
            'ident': 'XHjqJhXP',
@@ -1602,7 +1602,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-130.34,83.16],[-130.34,80.38],[-130.22,80.26],[-129.45,80.26],[-129.34,80.38],[-129.34,83.16],[-129.45,83.27],[-130.22,83.27]]',
            'dataLocation': None,
-           'display': '{"box":[-129.48,80.98,-130.28,82.49],"background":"990033","color":"#1d1d1b","text":"2: '
+           'display': '{"box":[-129.48,80.98,-130.28,82.49],"background":"#990033","color":"#1d1d1b","text":"2: '
                       'Option\\nselection","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-129.88,81.73]',
            'ident': 'Gr8DWuT4',
@@ -1621,7 +1621,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-130.34,87.05],[-130.34,84.27],[-130.22,84.15],[-129.45,84.15],[-129.34,84.27],[-129.34,87.05],[-129.45,87.16],[-130.22,87.16]]',
            'dataLocation': None,
-           'display': '{"box":[-129.48,84.59,-130.28,86.73],"background":"990033","color":"#1d1d1b","text":"3: '
+           'display': '{"box":[-129.48,84.59,-130.28,86.73],"background":"#990033","color":"#1d1d1b","text":"3: '
                       'Preliminary\\ndesign","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-129.88,85.66]',
            'ident': 'QScMdSls',
@@ -1631,7 +1631,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-130.34,91.13],[-130.34,87.95],[-130.21,87.83],[-129.46,87.83],[-129.34,87.95],[-129.34,91.13],[-129.46,91.25],[-130.21,91.25]]',
            'dataLocation': None,
-           'display': '{"box":[-129.48,87.76,-130.28,91.25],"background":"990033","color":"#1d1d1b","text":"4: '
+           'display': '{"box":[-129.48,87.76,-130.28,91.25],"background":"#990033","color":"#1d1d1b","text":"4: '
                       'Statutory procedures\\nand '
                       'powers","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-129.88,89.51]',
@@ -1642,7 +1642,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-130.34,95.29],[-130.34,92.51],[-130.22,92.4],[-129.45,92.4],[-129.34,92.51],[-129.34,95.29],[-129.45,95.4],[-130.22,95.4]]',
            'dataLocation': None,
-           'display': '{"box":[-129.48,92.72,-130.28,95.08],"background":"990033","color":"#1d1d1b","text":"5: '
+           'display': '{"box":[-129.48,92.72,-130.28,95.08],"background":"#990033","color":"#1d1d1b","text":"5: '
                       'Construction\\npreparation","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-129.88,93.9]',
            'ident': 'SgVSFW05',
@@ -1661,7 +1661,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-130.34,102.74],[-130.34,96.12],[-130.22,96.01],[-129.45,96.01],[-129.34,96.12],[-129.34,102.74],[-129.45,102.85],[-130.22,102.85]]',
            'dataLocation': None,
-           'display': '{"box":[-129.48,96.93,-130.28,101.57],"background":"990033","color":"#1d1d1b","text":"6: '
+           'display': '{"box":[-129.48,96.93,-130.28,101.57],"background":"#990033","color":"#1d1d1b","text":"6: '
                       'Construction, commissioning\\nand '
                       'handover","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-129.88,99.25]',
@@ -1672,7 +1672,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-130.34,106.57],[-130.34,104.02],[-130.22,103.9],[-129.45,103.9],[-129.34,104.02],[-129.34,106.57],[-129.45,106.69],[-130.22,106.69]]',
            'dataLocation': None,
-           'display': '{"box":[-129.48,104.39,-129.91,106.2],"background":"990033","color":"#1d1d1b","text":"7: '
+           'display': '{"box":[-129.48,104.39,-129.91,106.2],"background":"#990033","color":"#1d1d1b","text":"7: '
                       'Closeout","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-129.69,105.29]',
            'ident': 'd7TSLEo0',
@@ -2075,7 +2075,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-161.67,67.47],[-161.67,65.39],[-160.21,65.39],[-160.21,67.47]]',
            'dataLocation': None,
-           'display': '{"box":[-160.51,65.63,-161.31,67.24],"background":"058BCC","color":"#fff","text":"Customer\\ninsight","fontFamily":"Roboto-Regular","fontSize":0.31}',
+           'display': '{"box":[-160.51,65.63,-161.31,67.24],"background":"#058BCC","color":"#fff","text":"Customer\\ninsight","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-160.91,66.43]',
            'ident': '3SpT5zK4',
            'layer': 'activity@5-6',
@@ -2196,7 +2196,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-171.57,67.47],[-171.57,65.39],[-170.11,65.39],[-170.11,67.47]]',
            'dataLocation': None,
-           'display': '{"box":[-170.46,65.72,-171.26,67.15],"background":"058BCC","color":"#fff","text":"Property\\nrights","fontFamily":"Roboto-Regular","fontSize":0.31}',
+           'display': '{"box":[-170.46,65.72,-171.26,67.15],"background":"#058BCC","color":"#fff","text":"Property\\nrights","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-170.86,66.43]',
            'ident': 'kFwedWo5',
            'layer': 'activity@5-6',
@@ -4920,7 +4920,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-169.27,29.83],[-169.27,36.15],[-169.01,36.41],[-164.97,36.41],[-164.7,36.15],[-164.7,29.83],[-164.97,29.56],[-169.01,29.56]]',
            'dataLocation': None,
-           'display': '{"box":[-166.41,31.75,-167.6,35.2],"background":"002E5F","color":"#fff","text":"Information\\nand '
+           'display': '{"box":[-166.41,31.75,-167.6,35.2],"background":"#002E5F","color":"#fff","text":"Information\\nand '
                       'Technology","fontFamily":"Roboto-Regular","fontSize":0.46}',
            'geoPoint': '[-167.0,33.48]',
            'ident': 'Esr7Ybmg',
@@ -5344,7 +5344,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-149.09,29.84],[-149.09,36.16],[-148.82,36.43],[-144.78,36.43],[-144.52,36.16],[-144.52,29.84],[-144.78,29.57],[-148.82,29.57]]',
            'dataLocation': None,
-           'display': '{"box":[-145.85,32.18,-147.04,34.31],"background":"002E5F","color":"#fff","text":"Land '
+           'display': '{"box":[-145.85,32.18,-147.04,34.31],"background":"#002E5F","color":"#fff","text":"Land '
                       'and\\nestates","fontFamily":"Roboto-Regular","fontSize":0.46}',
            'geoPoint': '[-146.44,33.24]',
            'ident': 'oie7bkN4',
@@ -5354,7 +5354,7 @@
            'type': 'vm:IntangibleAsset'},
           {'area': '[[-148.08,32.61],[-148.51,34.99]]',
            'dataLocation': None,
-           'display': '{"box":[-148.08,32.61,-148.51,34.99],"background":"002E5F","color":"#fff","text":"Control '
+           'display': '{"box":[-148.08,32.61,-148.51,34.99],"background":"#002E5F","color":"#fff","text":"Control '
                       'centres","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-148.29,33.8]',
            'ident': 'sz9xXLIA',
@@ -5364,7 +5364,7 @@
            'type': 'vm:TangibleAsset'},
           {'area': '[[-147.44,32.32],[-147.86,33.56]]',
            'dataLocation': None,
-           'display': '{"box":[-147.44,32.32,-147.86,33.56],"background":"002E5F","color":"#fff","text":"Offices","fontFamily":"Roboto-Regular","fontSize":0.31}',
+           'display': '{"box":[-147.44,32.32,-147.86,33.56],"background":"#002E5F","color":"#fff","text":"Offices","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-147.65,32.94]',
            'ident': 'jIr6GHl2',
            'layer': 'activity@5-6',
@@ -5373,7 +5373,7 @@
            'type': 'vm:TangibleAsset'},
           {'area': '[[-148.18,30.14],[-148.61,32.0]]',
            'dataLocation': None,
-           'display': '{"box":[-148.18,30.14,-148.61,32.0],"background":"002E5F","color":"#fff","text":"Outstations","fontFamily":"Roboto-Regular","fontSize":0.31}',
+           'display': '{"box":[-148.18,30.14,-148.61,32.0],"background":"#002E5F","color":"#fff","text":"Outstations","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-148.4,31.07]',
            'ident': 'KatNZu2R',
            'layer': 'activity@5-6',
@@ -5382,7 +5382,7 @@
            'type': 'vm:TangibleAsset'},
           {'area': '[[-147.65,29.7],[-148.08,30.93]]',
            'dataLocation': None,
-           'display': '{"box":[-147.65,29.7,-148.08,30.93],"background":"002E5F","color":"#fff","text":"Depots","fontFamily":"Roboto-Regular","fontSize":0.31}',
+           'display': '{"box":[-147.65,29.7,-148.08,30.93],"background":"#002E5F","color":"#fff","text":"Depots","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-147.86,30.31]',
            'ident': 'TZ4X6yEA',
            'layer': 'activity@5-6',
@@ -5391,7 +5391,7 @@
            'type': 'vm:TangibleAsset'},
           {'area': '[[-148.54,32.95],[-148.96,33.89]]',
            'dataLocation': None,
-           'display': '{"box":[-148.54,32.95,-148.96,33.89],"background":"002E5F","color":"#fff","text":"Land","fontFamily":"Roboto-Regular","fontSize":0.31}',
+           'display': '{"box":[-148.54,32.95,-148.96,33.89],"background":"#002E5F","color":"#fff","text":"Land","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-148.75,33.42]',
            'ident': 'J2DGQoL7',
            'layer': 'activity@5-6',
@@ -5400,7 +5400,7 @@
            'type': 'vm:TangibleAsset'},
           {'area': '[[-147.61,34.28],[-148.03,35.88]]',
            'dataLocation': None,
-           'display': '{"box":[-147.61,34.28,-148.03,35.88],"background":"002E5F","color":"#fff","text":"Dwellings","fontFamily":"Roboto-Regular","fontSize":0.31}',
+           'display': '{"box":[-147.61,34.28,-148.03,35.88],"background":"#002E5F","color":"#fff","text":"Dwellings","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-147.82,35.08]',
            'ident': 'JvUWBdq_',
            'layer': 'activity@5-6',
@@ -5409,7 +5409,7 @@
            'type': 'vm:TangibleAsset'},
           {'area': '[[-146.37,34.37],[-147.17,35.93]]',
            'dataLocation': None,
-           'display': '{"box":[-146.37,34.37,-147.17,35.93],"background":"002E5F","color":"#fff","text":"Energy\\ncontracts","fontFamily":"Roboto-Regular","fontSize":0.31}',
+           'display': '{"box":[-146.37,34.37,-147.17,35.93],"background":"#002E5F","color":"#fff","text":"Energy\\ncontracts","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-146.77,35.15]',
            'ident': 'gJnKofsa',
            'layer': 'activity@5-6',
@@ -5418,7 +5418,7 @@
            'type': 'vm:TangibleAsset'},
           {'area': '[[-144.78,32.15],[-145.58,34.74]]',
            'dataLocation': None,
-           'display': '{"box":[-144.78,32.15,-145.58,34.74],"background":"002E5F","color":"#fff","text":"Business '
+           'display': '{"box":[-144.78,32.15,-145.58,34.74],"background":"#002E5F","color":"#fff","text":"Business '
                       'service\\ncontracts","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-145.18,33.44]',
            'ident': 'MFdmHF3J',
@@ -5428,7 +5428,7 @@
            'type': 'vm:TangibleAsset'},
           {'area': '[[-144.74,29.73],[-145.54,31.84]]',
            'dataLocation': None,
-           'display': '{"box":[-144.74,29.73,-145.54,31.84],"background":"002E5F","color":"#fff","text":"Facilities '
+           'display': '{"box":[-144.74,29.73,-145.54,31.84],"background":"#002E5F","color":"#fff","text":"Facilities '
                       'Mgt\\ncontracts","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-145.14,30.78]',
            'ident': 'y6X72oC6',
@@ -5932,7 +5932,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-128.78,29.83],[-128.78,36.15],[-128.51,36.42],[-124.48,36.42],[-124.21,36.15],[-124.21,29.83],[-124.48,29.56],[-128.51,29.56]]',
            'dataLocation': None,
-           'display': '{"box":[-126.17,32.2,-126.81,34.05],"background":"002E5F","color":"#fff","text":"Finance","fontFamily":"Roboto-Regular","fontSize":0.46}',
+           'display': '{"box":[-126.17,32.2,-126.81,34.05],"background":"#002E5F","color":"#fff","text":"Finance","fontFamily":"Roboto-Regular","fontSize":0.46}',
            'geoPoint': '[-126.49,33.13]',
            'ident': 'zgoOEm80',
            'layer': 'activity@5-6',
@@ -6498,7 +6498,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-108.91,29.95],[-108.91,36.27],[-108.65,36.54],[-104.61,36.54],[-104.34,36.27],[-104.34,29.95],[-104.61,29.68],[-108.65,29.68]]',
            'dataLocation': None,
-           'display': '{"box":[-106.01,32.15,-107.19,34.34],"background":"002E5F","color":"#fff","text":"Technical\\nExpertise","fontFamily":"Roboto-Regular","fontSize":0.46}',
+           'display': '{"box":[-106.01,32.15,-107.19,34.34],"background":"#002E5F","color":"#fff","text":"Technical\\nExpertise","fontFamily":"Roboto-Regular","fontSize":0.46}',
            'geoPoint': '[-106.6,33.25]',
            'ident': '_AVMXO7m',
            'layer': 'activity@5-6',
@@ -6507,7 +6507,7 @@
            'type': 'vm:IntangibleAsset'},
           {'area': '[[-107.25,33.98],[-108.11,36.07]]',
            'dataLocation': None,
-           'display': '{"box":[-107.25,33.98,-108.11,36.07],"background":"002E5F","color":"#fff","text":"Continuous\\nImprovement","fontFamily":"Roboto-Regular","fontSize":0.31}',
+           'display': '{"box":[-107.25,33.98,-108.11,36.07],"background":"#002E5F","color":"#fff","text":"Continuous\\nImprovement","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-107.68,35.02]',
            'ident': 'QF-_W-i7',
            'layer': 'activity@5-6',
@@ -6516,7 +6516,7 @@
            'type': 'vm:IntangibleAsset'},
           {'area': '[[-107.83,32.0],[-108.69,34.09]]',
            'dataLocation': None,
-           'display': '{"box":[-107.83,32.0,-108.69,34.09],"background":"002E5F","color":"#fff","text":"Operational\\nmanagement","fontFamily":"Roboto-Regular","fontSize":0.31}',
+           'display': '{"box":[-107.83,32.0,-108.69,34.09],"background":"#002E5F","color":"#fff","text":"Operational\\nmanagement","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-108.26,33.04]',
            'ident': 'vdruXOqS',
            'layer': 'activity@5-6',
@@ -6525,7 +6525,7 @@
            'type': 'vm:IntangibleAsset'},
           {'area': '[[-107.5,29.78],[-108.35,31.87]]',
            'dataLocation': None,
-           'display': '{"box":[-107.5,29.78,-108.35,31.87],"background":"002E5F","color":"#fff","text":"Asset\\nManagement","fontFamily":"Roboto-Regular","fontSize":0.31}',
+           'display': '{"box":[-107.5,29.78,-108.35,31.87],"background":"#002E5F","color":"#fff","text":"Asset\\nManagement","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-107.93,30.82]',
            'ident': 'rryHa5V3',
            'layer': 'activity@5-6',
@@ -6534,7 +6534,7 @@
            'type': 'vm:IntangibleAsset'},
           {'area': '[[-104.66,33.47],[-105.51,35.71]]',
            'dataLocation': None,
-           'display': '{"box":[-104.66,33.47,-105.51,35.71],"background":"002E5F","color":"#fff","text":"Environmental\\nand '
+           'display': '{"box":[-104.66,33.47,-105.51,35.71],"background":"#002E5F","color":"#fff","text":"Environmental\\nand '
                       'Social","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-105.08,34.59]',
            'ident': 'i9y8MIie',
@@ -6544,7 +6544,7 @@
            'type': 'vm:IntangibleAsset'},
           {'area': '[[-104.66,30.34],[-105.51,31.77]]',
            'dataLocation': None,
-           'display': '{"box":[-104.66,30.34,-105.51,31.77],"background":"002E5F","color":"#fff","text":"Health '
+           'display': '{"box":[-104.66,30.34,-105.51,31.77],"background":"#002E5F","color":"#fff","text":"Health '
                       '& '
                       'Safety","fontFamily":"Roboto-Regular","fontSize":0.31}',
            'geoPoint': '[-105.08,31.05]',
@@ -6981,7 +6981,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-149.21,218.74],[-149.21,225.06],[-148.94,225.33],[-144.9,225.33],[-144.64,225.06],[-144.64,218.74],[-144.9,218.47],[-148.94,218.47]]',
            'dataLocation': None,
-           'display': '{"box":[-146.48,221.58,-147.67,223.71],"background":"002E5F","color":"#fff","text":"Legal\\nExpertise","fontFamily":"Roboto-Regular","fontSize":0.46}',
+           'display': '{"box":[-146.48,221.58,-147.67,223.71],"background":"#002E5F","color":"#fff","text":"Legal\\nExpertise","fontFamily":"Roboto-Regular","fontSize":0.46}',
            'geoPoint': '[-147.07,222.64]',
            'ident': 'Fr3m46u1',
            'layer': 'activity@5-6',
@@ -7521,7 +7521,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-129.08,218.92],[-129.08,225.24],[-128.81,225.51],[-124.78,225.51],[-124.51,225.24],[-124.51,218.92],[-124.78,218.66],[-128.81,218.66]]',
            'dataLocation': None,
-           'display': '{"box":[-126.35,222.0,-126.99,223.65],"background":"002E5F","color":"#fff","text":"People","fontFamily":"Roboto-Regular","fontSize":0.46}',
+           'display': '{"box":[-126.35,222.0,-126.99,223.65],"background":"#002E5F","color":"#fff","text":"People","fontFamily":"Roboto-Regular","fontSize":0.46}',
            'geoPoint': '[-126.67,222.83]',
            'ident': 'PLS55gjr',
            'layer': 'activity@5-6',
@@ -9411,7 +9411,7 @@
            'type': 'vm:HE/Activity'},
           {'area': '[[-108.85,218.91],[-108.85,225.23],[-108.59,225.5],[-104.55,225.5],[-104.28,225.23],[-104.28,218.91],[-104.55,218.64],[-108.59,218.64]]',
            'dataLocation': None,
-           'display': '{"box":[-105.86,221.88,-107.05,224.33],"background":"002E5F","color":"#fff","text":"Brand '
+           'display': '{"box":[-105.86,221.88,-107.05,224.33],"background":"#002E5F","color":"#fff","text":"Brand '
                       'and\\nReputation","fontFamily":"Roboto-Regular","fontSize":0.46}',
            'geoPoint': '[-106.46,223.11]',
            'ident': 'b35TvO4W',
@@ -9421,7 +9421,7 @@
            'type': 'vm:IntangibleAsset'},
           {'area': '[[-145.13,137.81],[-145.13,117.52],[-127.08,117.52],[-127.08,137.81]]',
            'dataLocation': None,
-           'display': '{"box":[-134.1,122.65,-137.8,132.7],"background":"058BCC","color":"#fff","text":"Assets","fontFamily":"Roboto-Regular","fontSize":3.0}',
+           'display': '{"box":[-134.1,122.65,-137.8,132.7],"background":"#058BCC","color":"#fff","text":"Assets","fontFamily":"Roboto-Regular","fontSize":3.0}',
            'geoPoint': '[-135.95,127.67]',
            'ident': 'GVzeZdWZ',
            'layer': 'activity@5-6',
@@ -9430,7 +9430,7 @@
            'type': 'http://webprotege.stanford.edu/RBmqEHPuKuvpNznItviKdyK'},
           {'area': '[[-103.11,136.73],[-103.11,118.6],[-96.08,118.6],[-96.08,136.73]]',
            'dataLocation': None,
-           'display': '{"box":[-97.17,121.16,-101.49,134.24],"background":"058BCC","color":"#fff","text":"Strategic '
+           'display': '{"box":[-97.17,121.16,-101.49,134.24],"background":"#058BCC","color":"#fff","text":"Strategic '
                       'Road\\nNetwork","fontFamily":"Roboto-Regular","fontSize":1.88}',
            'geoPoint': '[-99.33,127.7]',
            'ident': '83xzbQW1',
